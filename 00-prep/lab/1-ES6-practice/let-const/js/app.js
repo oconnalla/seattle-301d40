@@ -38,7 +38,7 @@ function displayPics(){
   // console.log(rando);
 
   // TODO: 'let'allows you to create variables, but they are limited to the block/state/expression being used, they can't reach past that. The console log calling rando is outside of that while loop block.
-  // PUT YOUR RESPONSE IN THIS COMMENT
+  // PUT YOUR RESPONSE INTO THIS COMMENT
   console.log(viewed);
 
   for (let i = 0; i < 3; i++){

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
+/* @import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
 
 * {
   font-family: times;
@@ -6,18 +6,18 @@
 
 body {
   background: #fff;
-}
+} */
 
-nav, article, aside, footer section {
+/* nav, article, aside, footer section {
   margin: 0 auto;
   width: 900px;
 }
 
 nav {
   margin-top: 25px;
-}
+} */
 
-#logo {
+/* #logo {
   float: left;
   padding-bottom: 25px;
   color: black;
@@ -26,8 +26,8 @@ nav {
 
 #logo img {
   float: left;
-}
-
+} */
+/* 
 #logo h1 {
   padding-left: 50px;
   font-family: 'Yellowtail', cursive;
@@ -41,18 +41,18 @@ nav {
   font-family: 'Abel', sans-serif;
   font-size: .65em;
   text-transform: uppercase;
-}
+} */
 
-nav ul {
+/* nav ul {
   float: right;
 }
 
 nav li {
   float: left;
   padding-right: 2px;
-}
+} */
 
-hr {
+/* hr {
   clear: both;
   border: 0;
   height: 13px;
@@ -95,12 +95,12 @@ main p {
   line-height: 1.3em;
   text-indent: 30px;
   margin: 20px 0px;
-}
+} */
 
-input {
+/* input {
   font-family: 'Patrick Hand', cursive;
-}
-
+} */
+/* 
 .recipe {
   letter-spacing: .1em;
   font-family: 'Patrick Hand', cursive;
@@ -116,8 +116,8 @@ input {
   width: 40%;
   font-size: 1.3em;
   line-height: 31px;
-}
-
+} */
+/* 
 aside {
   padding-top: 30px;
   padding-bottom: 60px
@@ -151,7 +151,7 @@ aside button {
   color: #fff;
   font-size: 1.2em;
   border: none;
-}
+} */
 
 section hr {
   border-bottom: 1px solid #eee;
@@ -159,12 +159,9 @@ section hr {
 }
 
 
-footer section p{
+/* footer section p{
   padding: 50px 0;
   line-height: 1.5em;
   text-align: center;
   color: #aaa;
-}
-
-
-}
+} */
